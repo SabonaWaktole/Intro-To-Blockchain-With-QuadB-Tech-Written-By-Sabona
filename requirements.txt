@@ -1,0 +1,16 @@
+certifi
+charset-normalizer
+click
+colorama
+Flask
+Flask-QRcode
+idna
+itsdangerous
+Jinja2
+MarkupSafe
+Pillow
+pycryptodome
+qrcode
+requests
+urllib3
+Werkzeug
