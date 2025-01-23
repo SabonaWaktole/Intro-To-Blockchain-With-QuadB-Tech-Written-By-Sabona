@@ -61,8 +61,7 @@ The project requires the following Python libraries:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<username>/<repository>.git
-   cd <repository>
+   git clone https://github.com/SabonaWaktole/Intro-To-Blockchain-With-QuadB-Tech-Written-By-Sabona.git
 HOW TO RUN
 
 clone this repository to your local machine.
